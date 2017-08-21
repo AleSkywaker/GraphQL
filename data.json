@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Quentin Tarantino",
+      "email": "quentin@gmail.com,",
+      "age": 28
+    },
+    {
+      "id": "2",
+      "name": "Jon Doe",
+      "email": "jon@gmail.com,",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "Jane Doe",
+      "email": "jane@gmail.com,",
+      "age": 30
+    },
+    {
+      "id": "4",
+      "name": "George Lucas",
+      "email": "george@gmail.com,",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "Carolina Herrera",
+      "email": "carolina@gmail.com,",
+      "age": 27
+    },
+    {
+      "name": "Harry Portter",
+      "email": "harry@gmail.com",
+      "age": "34",
+      "id": "rJV6vzd_W"
+    }
+  ]
+}
